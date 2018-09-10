@@ -1,0 +1,3 @@
+class NameEmail
+  
+end
